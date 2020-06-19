@@ -1,0 +1,161 @@
+
+Gdrive of all :  https://drive.google.com/open?id=1neKBKIxLu9Rxn5M2UU8sMtYlHYH3JjrE
+
+
+JupyterHub
+Home
+rpothiappan621
+Info
+Video Links
+Video Downloads
+Grades
+Schedule
+Lectures will be distributed every week as a set of 4 hour long videos. The links will be posted here as they are uploaded.
+
+Video links below
+
+Date	Event	Youtube Link
+Monday 13-Apr-2020 9:30 am	Introduction to Machine Learning	https://youtu.be/9J6FNvil6Gw
+Monday 13-Apr-2020 9:30 am	1.2.1 Intro to Scikit-learn	https://youtu.be/ecryKgFv5MA
+Monday 13-Apr-2020 9:30 am	1.2.2 Predictors	https://youtu.be/AHALKrsFdVw
+Monday 13-Apr-2020 9:30 am	1.2.3 Transformers and Pipelines	https://youtu.be/zVU4131QPsw
+Monday 13-Apr-2020 9:30 am	1.2.4 Feature Unions	https://youtu.be/_gOyCmdumps
+Monday 13-Apr-2020 9:30 am	1.2.5 Custom Transformers	https://youtu.be/I0YbI9x51kU
+Monday 13-Apr-2020 9:30 am	1.2.6 Custom Predictors	https://youtu.be/bxf2JHcH4UI
+Monday 13-Apr-2020 9:30 am	1.2.7 Exercise Distance Transformer	https://youtu.be/0zYnOu1axGQ
+Monday 13-Apr-2020 9:30 am	1.2.8 Exercise Majority Classifier	https://youtu.be/SGLjDeJqDb0
+Monday 13-Apr-2020 9:30 am	1.3.1 Persisting Your Model	https://youtu.be/V9Pm_EZvABA
+Monday 13-Apr-2020 9:30 am	1.3.2 Common Mistakes	https://youtu.be/YZQNIUIAi3A
+Monday 20-Apr-2020 9:30 am	2.1.1 Regression Metrics	https://youtu.be/wlMrMvphMuw
+Monday 20-Apr-2020 9:30 am	2.2.1 Linear Regression Intro	https://youtu.be/L1h6cIG8XcA
+Monday 20-Apr-2020 9:30 am	2.2.2 Gradient Descent and Huber Loss	https://youtu.be/j0d4RogPiXM
+Monday 20-Apr-2020 9:30 am	2.2.3 Multivariate Regression	https://youtu.be/9YZbXipwAQg
+Monday 20-Apr-2020 9:30 am	2.2.4 Feature Importance	https://youtu.be/x5XB1ynjCGI
+Monday 20-Apr-2020 9:30 am	2.3.1 Classification Metrics	https://youtu.be/SMmbzWn8yGI
+Monday 20-Apr-2020 9:30 am	2.3.2 Probabilistic Models and Metrics	https://youtu.be/4MgWh8oD-hQ
+Monday 20-Apr-2020 9:30 am	2.3.3 Logistic Regression	https://youtu.be/oqj-0_4WKq4
+Monday 20-Apr-2020 9:30 am	2.3.4 Multiclassification	https://youtu.be/gOVP8c1Cmmg
+Monday 20-Apr-2020 9:30 am	2.4.1 Model Selection	https://youtu.be/lEBStVJXXpM
+Monday 20-Apr-2020 9:30 am	2.4.2 Intro to Decision Trees	https://youtu.be/D6tNPIXCI1o
+Monday 20-Apr-2020 9:30 am	2.4.3 Underfitting and Overfitting	https://youtu.be/ZhhvoUAhA80
+Monday 20-Apr-2020 9:30 am	2.4.4 GridSearchCV	https://youtu.be/cWqE82yQi1Y
+Monday 20-Apr-2020 9:30 am	2.4.5 Comparing Two Models	https://youtu.be/rZ8XGPm-i1o
+Monday 20-Apr-2020 9:30 am	2.5.1 Imputation	https://youtu.be/vJ3WBCW2sas
+Monday 20-Apr-2020 9:30 am	2.5.2 Categorical Data	https://youtu.be/qOAoV8HK8e0
+Monday 20-Apr-2020 9:30 am	2.6.1 GridsearchCV and Pipelines 1	https://youtu.be/c8ZJMXM6vvo
+Monday 20-Apr-2020 9:30 am	2.6.2 GridsearchCV and Pipelines 2	https://youtu.be/mqnG1yANXvo
+Monday 20-Apr-2020 9:30 am	2.6.3 RandomizedSearchCV	https://youtu.be/BXzf0gJuV4w
+Monday 27-Apr-2020 9:30 am	3.1.1 Feature Engineering and Extraction	https://youtu.be/kHDRaKe2B5A
+Monday 27-Apr-2020 9:30 am	3.1.2 Feature Transformation	https://youtu.be/YAJsJNS3DAA
+Monday 27-Apr-2020 9:30 am	3.1.3 Curse of Dimensionality	https://youtu.be/HvG45qVJM84
+Monday 27-Apr-2020 9:30 am	3.1.4 Regularization	https://youtu.be/ArJqhJ415d4
+Monday 27-Apr-2020 9:30 am	3.1.5 Multicollinearity and PCA	https://youtu.be/8eBKta-D334
+Monday 27-Apr-2020 9:30 am	3.1.6 Ensemble Models	https://youtu.be/oUOi5T1b_iU
+Monday 27-Apr-2020 9:30 am	3.2.1 Bias and Variance	https://youtu.be/-ZLg6Zp9HHg
+Monday 27-Apr-2020 9:30 am	3.2.2 Learning Curves	https://youtu.be/KB4fPj68Rbo
+Monday 27-Apr-2020 9:30 am	3.3.1 Intro KNN	https://youtu.be/EV6xlHdTaEY
+Monday 27-Apr-2020 9:30 am	3.3.2 KNN Bias and Variance	https://youtu.be/AXbhiyWJZdw
+Monday 27-Apr-2020 9:30 am	3.3.3 KNN Time Complexity	https://youtu.be/XleyueB7jXU
+Monday 27-Apr-2020 9:30 am	3.3.4 KD Trees and Weights	https://youtu.be/UV1WeqUFPE8
+Monday 27-Apr-2020 9:30 am	3.4.1 Intro to NLP	https://youtu.be/w3HtykbMcqk
+Monday 27-Apr-2020 9:30 am	3.4.2 Spacy	https://youtu.be/7nojkNN0EME
+Monday 27-Apr-2020 9:30 am	3.4.3 Obtaining a Corpus	https://youtu.be/4mYBqqbW408
+Monday 27-Apr-2020 9:30 am	3.4.4 Bag of Words Model	https://youtu.be/7bKNknkmIJI
+Monday 27-Apr-2020 9:30 am	3.4.5 Hashing Vectorizer	https://youtu.be/_wPHgQhiMVY
+Monday 27-Apr-2020 9:30 am	3.4.6 TF-IDF	https://youtu.be/kv9cE-uOnis
+Monday 27-Apr-2020 9:30 am	3.4.7 Improving Signal	https://youtu.be/UR4JcVOBiAI
+Monday 27-Apr-2020 9:30 am	3.4.8 N-grams and Similarity	https://youtu.be/tuwCNPEFRDs
+Monday 27-Apr-2020 9:30 am	3.4.9 Word Usage Classifier	https://youtu.be/FNU4dNeKrHo
+Monday 27-Apr-2020 9:30 am	3.4.10 Exercise I	https://youtu.be/kAZuP3efPbg
+Monday 27-Apr-2020 9:30 am	3.4.11 Exercise II	https://youtu.be/MkpFJkSrC2o
+Monday 27-Apr-2020 9:30 am	3.4.12 Exercise III and IV	https://youtu.be/Uw1_iZgihC0
+Monday 4-May-2020 9:30 am	4.1.1 Intro to Decision Trees	https://youtu.be/4cIr8W9tXD8
+Monday 4-May-2020 9:30 am	4.1.2 Tree Error Metrics	https://youtu.be/Pv8bnN3E4xA
+Monday 4-May-2020 9:30 am	4.1.3 Trees for Regression	https://youtu.be/LvUazyMSRFM
+Monday 4-May-2020 9:30 am	4.1.4 Training Trees and Hyperparameters	https://youtu.be/nC-pHG_hgdY
+Monday 4-May-2020 9:30 am	4.1.5 Geometric Interpretation and Time Complexity	https://youtu.be/l23BnV-4Xwc
+Monday 4-May-2020 9:30 am	4.1.6 Time Complexity Continued	https://youtu.be/oD_INvReM_I
+Monday 4-May-2020 9:30 am	4.1.7 Random Forests	https://youtu.be/JUzss0-pvz8
+Monday 4-May-2020 9:30 am	4.1.8 Extreme Random Forests	https://youtu.be/GLjopN8Lw94
+Monday 4-May-2020 9:30 am	4.1.9 Gradient Boosting Trees I	https://youtu.be/KJtV7fTrFH4
+Monday 4-May-2020 9:30 am	4.1.10 Gradient Boosting Trees II	https://youtu.be/E2R4D2Gc4x4
+Monday 4-May-2020 9:30 am	4.1.11 Feature Importance	https://youtu.be/WDLvgw-Znmg
+Monday 4-May-2020 9:30 am	4.1.12 Exercises	https://youtu.be/7q3pk2VcDFQ
+Monday 11-May-2020 9:30 am	5.1.1 Intro to SVM	https://youtu.be/GxSSq1B-BHg
+Monday 11-May-2020 9:30 am	5.1.2 Largest Margin Classifier	https://youtu.be/EK-69gK8y9E
+Monday 11-May-2020 9:30 am	5.1.3 Soft Margin Classifier	https://youtu.be/QT-Flust1Hc
+Monday 11-May-2020 9:30 am	5.1.4 SVM Kernels	https://youtu.be/VQWkkPV1Q_Q
+Monday 11-May-2020 9:30 am	5.1.5 SVM vs Logistic Regression	https://youtu.be/4G7uEZCAr2U
+Monday 11-May-2020 9:30 am	5.1.6 SVM Regression	https://youtu.be/xp8TJgzgWp0
+Monday 11-May-2020 9:30 am	5.1.7 SVM Lagrangian Dual	https://youtu.be/defq3yJ8cyw
+Monday 11-May-2020 9:30 am	5.1.8 Kernel Trick	https://youtu.be/YcRcxm4LSqg
+Monday 11-May-2020 9:30 am	5.1.9 SVM Time Complexity and Multiclass	https://youtu.be/FR5D4A3Nn0c
+Monday 11-May-2020 9:30 am	5.1.10 SVM Tuning Kernels Exercise Part I	https://youtu.be/MggSYvtMcLQ
+Monday 11-May-2020 9:30 am	5.1.11 SVM Tuning Kernels Exercise Part II	https://youtu.be/tvWb6XObsFg
+Monday 11-May-2020 9:30 am	5.1.12 SVM Kernel Approximations	https://youtu.be/A3HPwA0IWIM
+Monday 11-May-2020 9:30 am	5.1.13 SVM Online Learning	https://youtu.be/bgzt8UL8x4Y
+Monday 11-May-2020 9:30 am	5.1.14 SVM Online Learning Pipeline	https://youtu.be/E1RoFHjJRDc
+Monday 11-May-2020 9:30 am	5.2.1 Intro to Clustering	https://youtu.be/HktZtB7Te0c
+Monday 11-May-2020 9:30 am	5.2.2 Metrics for Clustering	https://youtu.be/kWsylUt8LxA
+Monday 11-May-2020 9:30 am	5.2.3 KMeans Clustering	https://youtu.be/_OKUAiC9FLY
+Monday 11-May-2020 9:30 am	5.2.4 Elbow Plots	https://youtu.be/J_jH7cXGUSQ
+Monday 11-May-2020 9:30 am	5.2.5 Gaussian Mixture Models	https://youtu.be/WwDiKfHW52U
+Monday 11-May-2020 9:30 am	5.2.6 Choosing Cluster Based on Silhouette	https://youtu.be/Gj4HHh4dDEk
+Monday 11-May-2020 9:30 am	5.2.7 GMM Choosing Number of Components	https://youtu.be/QO3F4lBs4m4
+Monday 18-May-2020 9:30 am	6.1.1 Intro to Time Series	https://youtu.be/BvDcWoLnWFk
+Monday 18-May-2020 9:30 am	6.1.2 Crossvalidation in Time Series	https://youtu.be/ZOJAof-3YYA
+Monday 18-May-2020 9:30 am	6.1.3 Stationary Signal	https://youtu.be/WytJdsQBeos
+Monday 18-May-2020 9:30 am	6.1.4 Modeling Drift	https://youtu.be/53FLb9usJBk
+Monday 18-May-2020 9:30 am	6.1.5 Fourier Transforms Part I	https://youtu.be/k-cF7LB7p4w
+Monday 18-May-2020 9:30 am	6.1.6 Fourier Transforms Part II	https://youtu.be/7KSdhV2elq8
+Monday 18-May-2020 9:30 am	6.1.7 Fourier Components in our Model	https://youtu.be/ek3vt4xLL-k
+Monday 18-May-2020 9:30 am	6.1.8 Modeling Noise	https://youtu.be/IBBcCxCPv1w
+Monday 18-May-2020 9:30 am	6.1.9 Moving Statistics	https://youtu.be/8LUt3PBcCFk
+Monday 18-May-2020 9:30 am	6.1.10 Full Model	https://youtu.be/oIIE1Fh8eNc
+Monday 18-May-2020 9:30 am	6.1.11 ARMA and ARIMA	https://youtu.be/UPox0nn4IvE
+Monday 18-May-2020 9:30 am	6.1.12 AR Example	https://youtu.be/GaQ70ZHo69s
+Monday 18-May-2020 9:30 am	6.2.1 Intro to Dimension Reduction	https://youtu.be/b5BihaS90q0
+Monday 18-May-2020 9:30 am	6.2.2 Math of Projections	https://youtu.be/CZjSrCpkxxk
+Monday 18-May-2020 9:30 am	6.2.3 PCA	https://youtu.be/dCYH6MVyfSA
+Monday 18-May-2020 9:30 am	6.2.4 PCA in Scikit Learn	https://youtu.be/lSxcJbaRvkA
+Monday 18-May-2020 9:30 am	6.2.5 PCA Implementation Details	https://youtu.be/QQl4h1gyCwc
+Monday 18-May-2020 9:30 am	6.2.6 Choosing the Number of Components	https://youtu.be/4azFI2QzyXU
+Monday 18-May-2020 9:30 am	6.2.7 Truncated SVD	https://youtu.be/nfwInvCoym0
+Monday 18-May-2020 9:30 am	6.2.8 NMF	https://youtu.be/ELLDyWiiSXU
+Monday 18-May-2020 9:30 am	6.2.9 Using PCA with Supervised ML	https://youtu.be/u8tUlG28CH0
+Monday 18-May-2020 9:30 am	6.2.10 PCA for Visualization	https://youtu.be/MRwKUI5ulio
+Monday 18-May-2020 9:30 am	6.2.11 NMF Exercise Part I	https://youtu.be/oo1sDDHE-DM
+Monday 18-May-2020 9:30 am	6.2.12 NMF Exercise Part II	https://youtu.be/PQt9XPS_bT0
+Monday 18-May-2020 9:30 am	6.2.13 Variants of PCA	https://youtu.be/0KdHFPXsonE
+Monday 25-May-2020 9:30 am	7.1.1 Intro to Anomaly Detection	https://youtu.be/KuFUQ7wWhsY
+Monday 25-May-2020 9:30 am	7.1.2 One class SVM	https://youtu.be/2l0TD7gCzvQ
+Monday 25-May-2020 9:30 am	7.1.3 Isolation Forest	https://youtu.be/xIAwOj_xh9s
+Monday 25-May-2020 9:30 am	7.1.4 Comparison Between One-class SVM and Isolation Forest	https://youtu.be/VIyK4gLB2hg
+Monday 25-May-2020 9:30 am	7.1.5 Intro to Case Study	https://youtu.be/TQk9uSFMo6w
+Monday 25-May-2020 9:30 am	7.1.6 Initial Baseline Model Part I	https://youtu.be/qrJTbKyv1eA
+Monday 25-May-2020 9:30 am	7.1.7 Initial Baseline model Part II	https://youtu.be/HMRoWtI6eMo
+Monday 25-May-2020 9:30 am	7.1.8 Full Baseline Model	https://youtu.be/gTyO2ldQfWc
+Monday 25-May-2020 9:30 am	7.1.9 Z-score Detection	https://youtu.be/d2YIby-isCE
+Monday 25-May-2020 9:30 am	7.1.10 Rolling Z-score Detection	https://youtu.be/cQ2YIZmeQKg
+Monday 25-May-2020 9:30 am	7.1.11 Using External Features Initial Model	https://youtu.be/_SvveHx_Nfk
+Monday 25-May-2020 9:30 am	7.1.12 Using External Features Tuning the Model	https://youtu.be/2Z5SQsx4LFE
+Monday 25-May-2020 9:30 am	7.1.13 Packaging the Time Series Anomaly Detector	https://youtu.be/hTWHZTTbmJk
+Monday 1-Jun-2020 9:30 am	8.1.1 Model Considerations	https://youtu.be/SFFFnqugdOQ
+Monday 1-Jun-2020 9:30 am	8.1.2 Model Development	https://youtu.be/DrClE-USVDg
+Monday 1-Jun-2020 9:30 am	8.1.3 Flask App Local Development	https://youtu.be/chRA6Lngw-A
+Monday 1-Jun-2020 9:30 am	8.1.4 GET requests	https://youtu.be/v1yYLbB_uUE
+Monday 1-Jun-2020 9:30 am	8.1.5 Making GET Requests with Model	https://youtu.be/q9DgF7mJbrc
+Monday 1-Jun-2020 9:30 am	8.1.6 Using our Model with Twitter Web API	https://youtu.be/AFwGAeBDeEk
+Monday 1-Jun-2020 9:30 am	8.1.7 POST Requests and Flask Templates	https://youtu.be/qbi3aT0KEsA
+Monday 1-Jun-2020 9:30 am	8.1.8 Preparing for Deployment to the Web	https://youtu.be/zqbIVwnA0go
+Monday 1-Jun-2020 9:30 am	8.1.9 Deploying our App to the Web with Heroku	https://youtu.be/ALlhG0pjx1w
+Monday 1-Jun-2020 9:30 am	8.2.1 Rethinking Model Tuning	https://youtu.be/TPcytvHTQoA
+Monday 1-Jun-2020 9:30 am	8.2.2 Intro to Bayes Theorem	https://youtu.be/bzsLD59kF2g
+Monday 1-Jun-2020 9:30 am	8.2.3 Bayesian Inference	https://youtu.be/i6EyxNl_mdk
+Monday 1-Jun-2020 9:30 am	8.2.4 Bayesian Optimization	https://youtu.be/GIQL38tkyRs
+Monday 1-Jun-2020 9:30 am	8.3.1 End of Course Material	https://youtu.be/htdGrsIMZkg
+Monday 1-Jun-2020 7:30 pm	Office Hour 29	https://www.youtube.com/channel/UCW5qH1I2RMA0CnJ0uo7OTvQ/live
+Wednesday 3-Jun-2020 2:30 am	Office Hour 30	https://www.youtube.com/channel/UCW5qH1I2RMA0CnJ0uo7OTvQ/live
+Wednesday 3-Jun-2020 7:30 pm	Office Hour 31	https://www.youtube.com/channel/UCW5qH1I2RMA0CnJ0uo7OTvQ/live
+Friday 5-Jun-2020 2:30 am	Office Hour 32	https://www.youtube.com/channel/UCW5qH1I2RMA0CnJ0uo7OTvQ/live
+Friday 5-Jun-2020 9:30 am	OFFICE HOURS PLAYLIST	https://www.youtube.com/playlist?list=PLeDYvCW3J3jl_5cjrutIqjfKzPX0XDmdF
